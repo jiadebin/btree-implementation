@@ -3,7 +3,7 @@
 
 **Authors**: Oscar Chen, Aly Valliani
 
-We implementated a B+-Tree database indexing system for storing ordered key-value tuples. Using C++ and provided API endpoints
+We implemented a B+-Tree database indexing system for storing ordered key-value tuples. Using C++ and provided API endpoints
 
 ### Contents: 
 1. **btree.h** - B+-Tree impelementation header file
